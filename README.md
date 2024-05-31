@@ -6,9 +6,9 @@ SimpCRM App
 
 ### 1. Terminal:
 ```
-git clone https://github.com/McRas/29415_52665_52668.git
+git clone https://github.com/McRas/29415_52665_52668_51413_51414
 ```
-Wejdź w folder /29415_52665_52668
+Wejdź w folder /29415_52665_52668_51413_51414
 ```
 python -m venv wirtual
 ```
@@ -30,7 +30,7 @@ python manage.py createsuperuser
 ### 4. Uruchom: http://127.0.0.1:8000/
 
 ## Kolejne uruchamianie aplikacji:
-### 1. Wejdź w folder /29415_52665_52668
+### 1. Wejdź w folder /29415_52665_52668_51413_51414
 
 ### 2. Terminal:
 
