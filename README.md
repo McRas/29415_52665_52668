@@ -2,7 +2,7 @@
 AEH Projekt na przedmioty: Aplikacyjny projekt zespołowy i Projektowanie wielowarstwowych aplikacji biznesowych.
 SimpCRM App
 
-## Uruchamianie aplikacji:
+## Pierwsze uruchamianie aplikacji:
 ### 1. MySQL
 Pobierz i zainstaluj MySQL 8.0.37 https://dev.mysql.com/downloads/installer/
 
@@ -40,3 +40,9 @@ Opcjonalnie:
 python manage.py createsuperuser
 ```
 ### 6. Uruchom: http://127.0.0.1:8000/
+
+## Kolejne uruchamianie aplikacji:
+Wejdź w folder /29415_52665_52668
+```
+python manage.py runserver
+```
