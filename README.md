@@ -3,11 +3,8 @@ AEH Projekt na przedmioty: Aplikacyjny projekt zespołowy i Projektowanie wielow
 SimpCRM App
 
 ## Pierwsze uruchamianie aplikacji:
-### 1. MySQL
-Pobierz i zainstaluj MySQL 8.0.37 https://dev.mysql.com/downloads/installer/
 
-
-### 2. Terminal:
+### 1. Terminal:
 ```
 git clone https://github.com/McRas/29415_52665_52668.git
 ```
@@ -19,19 +16,10 @@ python -m venv wirtual
 pip install -r requirements.txt
 ```
 
-### 3. Zaktualizuj dane dotyczące swojej MYSQL database w pliku settings.py i mydb.py
+### 2. Zaktualizuj dane dotyczące swojej MYSQL database w pliku settings.py i mydb.py
 (domyślnie 	user = 'root', hasło = '1234')
 
-### 4. Stwórz baze danych za pomocą pliku mydb.py
-
-### 5. Terminal:
-
-```
-python manage.py makemigrations
-```
-```
-python manage.py migrate
-```
+### 3. Terminal:
 ```
 python manage.py runserver
 ```
@@ -39,7 +27,7 @@ Opcjonalnie:
 ```
 python manage.py createsuperuser
 ```
-### 6. Uruchom: http://127.0.0.1:8000/
+### 4. Uruchom: http://127.0.0.1:8000/
 
 ## Kolejne uruchamianie aplikacji:
 ### 1. Wejdź w folder /29415_52665_52668
