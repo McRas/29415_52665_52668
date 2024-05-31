@@ -13,6 +13,9 @@ Wejdź w folder /29415_52665_52668_51413_51414
 python -m venv wirtual
 ```
 ```
+wirtual\Scripts\activate
+```
+```
 pip install -r requirements.txt
 ```
 ```
