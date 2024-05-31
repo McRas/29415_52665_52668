@@ -8,7 +8,9 @@ SimpCRM App
 ```
 git clone https://github.com/McRas/29415_52665_52668_51413_51414
 ```
-Wejdź w folder /29415_52665_52668_51413_51414
+```
+cd 29415_52665_52668_51413_51414
+```
 ```
 python -m venv wirtual
 ```
