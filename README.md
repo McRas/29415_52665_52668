@@ -15,7 +15,7 @@ cd 29415_52665_52668_51413_51414
 python -m venv wirtual
 ```
 ```
-wirtual\Scripts\activate
+source wirtual\Scripts\activate
 ```
 ```
 pip install -r requirements.txt
@@ -27,4 +27,7 @@ Opcjonalnie:
 ```
 python manage.py createsuperuser
 ```
+
+Uwaga
+
 ### Uruchom: http://127.0.0.1:8000/
