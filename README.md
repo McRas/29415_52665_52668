@@ -21,12 +21,12 @@ source wirtual\Scripts\activate
 pip install -r requirements.txt
 ```
 ```
-python manage.py runserver
-```
-Opcjonalnie:
-```
 python manage.py createsuperuser
 ```
+```
+python manage.py runserver
+```
+
 
 Uwaga
 
