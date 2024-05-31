@@ -42,7 +42,17 @@ python manage.py createsuperuser
 ### 6. Uruchom: http://127.0.0.1:8000/
 
 ## Kolejne uruchamianie aplikacji:
-Wejdź w folder /29415_52665_52668
+### 1. Wejdź w folder /29415_52665_52668
+
+### 2. Terminal:
+
+```
+python -m venv wirtual
+```
+```
+pip install -r requirements.txt
+```
 ```
 python manage.py runserver
 ```
+### 3. Uruchom: http://127.0.0.1:8000/
