@@ -32,6 +32,6 @@ Uwaga
 
 ### Uruchom: http://127.0.0.1:8000/
 
-Dane administratora__
-Login: asdfg__
+Dane administratora  
+Login: asdfg  
 Hasło: asdfghjkl
